@@ -43,8 +43,4 @@ Description: Java EE, Hibernate, Spring, Tomcat
 **EPAM Systems**  
 _October 2018 – December 2018_  
 Course: Java Development  
-Description: Java SE, Maven, JUnit, Logging, Git  
-
-
-
-
+Description: Java SE, Maven, JUnit, Logging, Git
