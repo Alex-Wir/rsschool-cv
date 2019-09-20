@@ -57,6 +57,11 @@ a:hover {
     text-decoration: underline;
 }
 
+figcaption {
+    text-align: center;
+    font-style: italic;
+}
+
 .place {
     font-weight: bold;
 }
